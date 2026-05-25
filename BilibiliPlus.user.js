@@ -7,8 +7,8 @@
 // @match        https://www.bilibili.com/*
 // @icon         https://www.bilibili.com/favicon.ico
 // @grant        none
-// @updateURL    
-// @downloadURL  
+// @updateURL    https://raw.githubusercontent.com/menghuidream/Tampermonkey/master/BilibiliPlus.user.js
+// @downloadURL  https://raw.githubusercontent.com/menghuidream/Tampermonkey/master/BilibiliPlus.user.js
 // ==/UserScript==
 
 (function() {
